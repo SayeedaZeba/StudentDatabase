@@ -1,14 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package studentdatabaseapp;
+
 import java.util.Scanner;
-/**
- *
- * @author Iffath Zeba Sayeeda
- */
+
 public class StudentDatabaseApp {
     
     public static void main(String[] args){
